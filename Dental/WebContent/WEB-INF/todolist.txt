@@ -1,0 +1,36 @@
+## Main Section
+main=mypkg.common.MainController
+#### Member Section ######################################################
+meLogin=mypkg.member.MemberLoginController
+#meList=mypkg.member.MemberListController
+#meInsert=mypkg.member.MemberInsertController
+#meLogout=mypkg.member.MemberLogoutController
+#meIdcheck=mypkg.member.MemberIdcheckController
+#meZipcheck=mypkg.member.MemberZipcheckController
+#meDetailView=mypkg.member.MemberDetailViewController
+#meUpdate=mypkg.member.MemberUpdateController
+#meDelete=mypkg.member.MemberDeleteController
+#### Board Section ######################################################
+#boList=mypkg.board.BoardListController
+#boInsert=mypkg.board.BoardInsertController
+#boDetailView=mypkg.board.BoardDetailViewController
+#boDelete=mypkg.board.BoardDeleteController
+#boUpdate=mypkg.board.BoardUpdateController
+#boReply=mypkg.board.BoardReplyController
+#### Product Section ######################################################
+#prList=mypkg.product.ProductListController
+#prDetailView=mypkg.product.ProductDetailViewController
+#prInsert=mypkg.product.ProductInsertController
+#prDelete=mypkg.product.ProductDeleteController
+#prUpdate=mypkg.product.ProductUpdateController
+#### Mall Section ######################################################
+#mallInsert=mypkg.mall.MallInsertController
+#mallList=mypkg.mall.MallListController
+#mallCalculate=mypkg.mall.MallCalculateController
+#mallDelete=mypkg.mall.MallDeleteController
+#mallOrder=mypkg.mall.MallOrderController
+#mallDetail=mypkg.mall.MallDetailController
+#### Comment Section ######################################################
+#list.com=mypkg.comment.CommentListController
+#insert.com=mypkg.comment.CommentInsertController
+#delete.com=mypkg.comment.CommentDeleteController
